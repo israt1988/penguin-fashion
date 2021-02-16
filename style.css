@@ -1,0 +1,40 @@
+.top{
+    background-color: #fceae8;  
+}
+h1.color{
+color: darkgoldenrod;
+ }
+h1{
+        font: 600px;
+        font-size: 300%;
+        font-weight: bold;
+}
+h5{
+    color: darkorange;
+    font-weight: bold;
+    font-size: 200%;
+}
+.penguin-card{
+    border: 0;
+    border-radius: 5%;
+}
+.card-footer{
+    border: 0;  
+}
+.card-img-top{
+    margin: 5% 5%;
+    width: 90%;
+    height: 50%;
+background-color: lightslategray;
+border-radius: 5%;
+}
+.card-secvice{
+    border-radius: 5%;
+    border: 0;
+}
+.button-style{
+background-color: rgb(154, 156, 13);
+border: 0;
+border-radius: 10%;
+font-weight: bold;
+}
